@@ -2,11 +2,11 @@
 
 <h2 align="center"><b>Trilha node</b></h2>
 
-### Esse projeto foi feito durante o evento "Next Level Week", em sua sexta edição.
+#### Esse projeto foi feito durante o evento "Next Level Week", em sua sexta edição.
 
 <h2 align="center"><b>Qual a proposta da trilha?</b> </h2>
 
-### A proposta da trilha Node.js foi criar um sistema no qual você pode indicar sua satisfação em trabalhar com algum colega, como uma pesquisa de satisfação entre colegas de trabalho.
+#### A proposta da trilha Node.js foi criar um sistema no qual você pode indicar sua satisfação em trabalhar com algum colega, como uma pesquisa de satisfação entre colegas de trabalho.
 
 <h2 align="center"><b>Dias concluídos:</b></h2>
 
