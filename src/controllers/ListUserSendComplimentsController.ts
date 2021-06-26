@@ -9,7 +9,7 @@ class ListUserSendComplimentsController {
 
         const listCompliments = new ListUserSendComplimentsService();
 
-        const compliments = listCompliments.execute(user_id);
+        const compliments = await listCompliments.execute(user_id);
 
         return response.json(compliments);
     }
