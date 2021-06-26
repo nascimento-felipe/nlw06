@@ -13,7 +13,8 @@
 - [x] dia 1
 - [x] dia 2
 - [x] dia 3
-- [ ] dia 4
+- [x] dia 4
+- [x] dia 5
 
 <h2 align="center"><b>Quais os conceitos aprendidos até agora?</b></h2>
 

@@ -5,13 +5,14 @@ import { CreateComplimentService } from "../service/CreateComplimentService";
 
 class CreateComplimentController {
     async handle(request: Request, response: Response) {
-        const { tag_id, user_sender, user_receiver, message } = request.body;
+        const { tag_id, user_receiver, message } = request.body;
+        const { user_id } = request;
 
         const CREATE_COMPLIMENT_SERVICE = new CreateComplimentService();
 
         const COMPLIMENT = await CREATE_COMPLIMENT_SERVICE.execute({
             tag_id,
-            user_sender,
+            user_sender: user_id,
             user_receiver,
             message
         })
